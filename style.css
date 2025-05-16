@@ -1,7 +1,12 @@
 .bg-custom2{
-    background-color: gold;
+    background-color:#44922F;
 }
 
 .bg-custom{
-    background-color: gold;
+    background-color:#44922F;
+}
+
+.custom-slider{
+    height: 400px;
+    width: 1080px;
 }
